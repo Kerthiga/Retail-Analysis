@@ -51,7 +51,8 @@ Key Insights:
 - Helps identify general trends and issues
 
   <br>
-<img width="1284" height="722" alt="image" src="https://github.com/user-attachments/assets/8b9d276a-feb8-44d0-8aaa-36ff0fff3001" />
+<img width="1284" height="722" alt="Screenshot 2026-04-28 192850" src="https://github.com/user-attachments/assets/b8a71f7e-a54c-40e9-adb8-87b8608acc74" />
+
 
 ---
 
@@ -68,7 +69,8 @@ Key Insights:
 - Highlights sales distribution across categories  
 
 <br>
-<img width="1285" height="721" alt="image" src="https://github.com/user-attachments/assets/f55c0162-873b-4006-ae77-6c496c2d5cfa" />
+<img width="1285" height="721" alt="Screenshot 2026-04-28 192929" src="https://github.com/user-attachments/assets/a7dd77a3-5e3d-4131-a53d-c23e7fe44c91" />
+
 
 ---
 
@@ -85,7 +87,8 @@ Key Insights:
 - Delivery gaps indicate orders inefficiencies  
 
 <br>
-<img width="1284" height="722" alt="image" src="https://github.com/user-attachments/assets/9d97015e-4ac9-4341-9cb1-82278b60c804" />
+<img width="1284" height="722" alt="Screenshot 2026-04-28 193003" src="https://github.com/user-attachments/assets/9eb575a2-54a4-433e-8667-9218fb8fc934" />
+
 
 ---
 
@@ -102,7 +105,8 @@ Key Insights:
 - Identifies fast-moving vs slow-moving products  
 
 <br>
-<img width="1278" height="722" alt="image" src="https://github.com/user-attachments/assets/bdc27ff5-386b-44db-aff6-d285119f57b5" />
+<img width="1278" height="722" alt="Screenshot 2026-04-28 193047" src="https://github.com/user-attachments/assets/e0f0884c-2dab-440d-ab28-b9681c7fe67e" />
+
 
 ---
 
